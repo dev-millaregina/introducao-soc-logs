@@ -6,11 +6,9 @@ Projeto do desafio da **Digital Innovation One (DIO)** para construir um caderno
 
 O estudo explora como uma equipe de segurança usa registros de atividades para reconhecer acessos que merecem atenção, com linguagem introdutória e exemplos fictícios.
 
-*Visão geral do caderno temático desenvolvido no Gemini Notebook.*
-
 **Objetivo:** compreender o papel de um SOC, aprender a observar logs de acesso e organizar uma análise simples, distinguindo suspeitas de conclusões.
 
-
+*Visão geral do caderno temático desenvolvido no Gemini Notebook.*
 
 <img src="materiais/tela_notebook.png" width="90%" />
 
