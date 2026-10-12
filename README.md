@@ -10,7 +10,7 @@ O estudo explora como uma equipe de segurança usa registros de atividades para 
 
 <img src="materiais/tela_notebook.png" width="90%" />
 
-*Visão geral do caderno temático desenvolvido no Gemini Notebook.*
+**Visão geral do caderno temático desenvolvido no Gemini Notebook.**
 
 ## 📖 Curadoria de fontes
 
