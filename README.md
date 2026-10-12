@@ -8,12 +8,9 @@ O estudo explora como uma equipe de segurança usa registros de atividades para 
 
 **Objetivo:** compreender o papel de um SOC, aprender a observar logs de acesso e organizar uma análise simples, distinguindo suspeitas de conclusões.
 
-<<<<<<< HEAD
-*Visão geral do caderno temático desenvolvido no Gemini Notebook.*
-
-=======
->>>>>>> a0a532d51bd7e46046e1f349bddd0ef5d635d358
 <img src="materiais/tela_notebook.png" width="90%" />
+
+*Visão geral do caderno temático desenvolvido no Gemini Notebook.*
 
 ## 📖 Curadoria de fontes
 
